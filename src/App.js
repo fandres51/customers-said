@@ -7,7 +7,7 @@ function App() {
 
   const options = [
     {
-      question: '¿A demás de shampoo, que más te pones en el cabello?',
+      question: 'Además de shampoo, ¿Qué más te pones en el cabello?',
       answers: [
         {
           name: 'Acondicionador',
@@ -22,7 +22,7 @@ function App() {
           value: 9
         },
         {
-          name: 'Enjuague',
+          name: 'Agua',
           value: 8
         },
         {
